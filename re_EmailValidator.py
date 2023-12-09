@@ -13,5 +13,5 @@ def emailTest(email):
         return 
 
 
-email = "araj1500@gmail.com"
+email = input("Enter your email :\t")
 emailTest(email)
